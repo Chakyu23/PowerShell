@@ -1,13 +1,6 @@
 # PowerShell
 
-## Qu'est ce que le PowerShell
-
-
-
-
-
-
-
+## De quoi va t'on Parler ?
 
 ## Sommaire
 
