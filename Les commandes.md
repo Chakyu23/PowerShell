@@ -19,12 +19,13 @@
 * **touch \<nom\>** : permet de créé un nouveau fichier
 * **cat \<fichier\>** : affiche le contenue d'un fichier
 * **mv \<source\> \<destination\>** : Permet de déplacer un élément 
-astuce : mv est également utilisé pour renommer des fichiers. Par exemple, si un fichier s'appelle "toto" et que l'on souhaite le renommer "tata", il suffira d'utiliser la commande mv de la sorte : mv toto tata
-cp : Permet de copier des éléments
-cp <fichier_source> <fichier_destination> : Copie le fichier source en fichier de destination
-cp -r <dossier_source> <dossier_destination> : Copie le dosser source en dossier de destination (le "-r" permet de signifier la reccursivité)
-grep <regex || string> <fichier> : Permet d'effectuer une recherche dans un fichier, a partir d'une regex, ou d'une string
-man <command> : Permet de vous afficher la documentation de la commande renseignée
+  * mv peu également etre utilisé pour renomé un fichier
+* **cp \<fichier_source\> \<fichier_destination\>** : permet de copier un fichier
+  * **cp -r \<dossier_source\> \<dossier_destination\>** : permet de copier un dossier et son contenue
+* **grep \<regex || string\> \<fichier\>** : Permet de faire une recherche dans un fichier grace a un *String* ou *Regex*
+* **man \<command\>** : Permet de vous afficher la documentation
+
+
 whereis <string> : Permet de rechercher tous les fichiers nommés <string> parmis les fichiers exécutables de l'OS.
 apt-get <command> : Gestionnaire de paquets de l'OS
 apt-get update : met à jour la liste des paquets disponibles
