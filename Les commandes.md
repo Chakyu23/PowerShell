@@ -6,21 +6,19 @@
 
 * **ls** : Permet d'affiché La majeur partie des fichié d'un dossier, mais ne montre pas les fichier caché
   * **ls -al** : Montre **tous** les fiché, y compris les dossier caché, ainsi que les dossier
-* **cd <dossier>** : permet d'allé dans un dossier
+* **cd \<dossier\>** : permet d'allé dans un dossier
   * **cd /** : permet d'accédé a la racine du système
   * **cd** : permet d'accédé au dossier personnel de l'utilisateur
 * **nano** : Permet d'accédé a un éditeur de fichier, en bas de l'écran, la touche CTRL y'est représenté par le symbole (^)
-* **source** <fichier> : permet d'actualisé un fichier
-* **sudo <action>** : permet l'éxécution d'un fichier en changeant d'utilisateur
-* **mkdir <nom>** : crée un dossier dans le répertoire courant avec le nom renseigné
-rm : permet de supprimer des éléments
-rm <fichier> : permet de supprimer un fichier
-rm -r <dossier> : permet de supprimer un dossier et tout son contenu (le "-r" permet de signifier la reccursivité)
-rm -rf <dossier> : force la suppression du dossier grace au "-f" ( pour "forcer")
-touch <nom> : Permet de créer un fichier avec le nom "nom"
-cat <fichier> : Permet d'afficher dans la console le contenu du fichier sans l'ouvrir
-mv : Permet de déplacer des éléments
-mv <source> <destination> : Permet de déplacer l'élément source a l'emplacement de destination
+* **source \<fichier\>** : permet d'actualisé un fichier
+* **sudo \<action\>** : permet l'éxécution d'un fichier en changeant d'utilisateur
+* **mkdir \<nom\>** : permet de crér un dossier dans le dossier actuel
+* **rm \<quelque chose\>** : permet de supprimer des éléments
+  * **rm -r \<dossier\>** : permet de suprimé un dossier contenant encore d'autres éléments
+  * **rm -rf \<dossier\>** : en rajoutant un -f cela permet de forcé la suppression des fichier
+* **touch \<nom\>** : permet de créé un nouveau fichier
+* **cat \<fichier\>** : affiche le contenue d'un fichier
+* **mv \<source\> \<destination\>** : Permet de déplacer un élément 
 astuce : mv est également utilisé pour renommer des fichiers. Par exemple, si un fichier s'appelle "toto" et que l'on souhaite le renommer "tata", il suffira d'utiliser la commande mv de la sorte : mv toto tata
 cp : Permet de copier des éléments
 cp <fichier_source> <fichier_destination> : Copie le fichier source en fichier de destination
