@@ -1,3 +1,3 @@
 # Les scripts
 
-## Qu'est ce qu'un **Script** Shell
+## Qu'est ce qu'un Script Shell
