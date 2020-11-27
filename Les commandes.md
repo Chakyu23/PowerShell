@@ -24,19 +24,16 @@
   * **cp -r \<dossier_source\> \<dossier_destination\>** : permet de copier un dossier et son contenue
 * **grep \<regex || string\> \<fichier\>** : Permet de faire une recherche dans un fichier grace a un *String* ou *Regex*
 * **man \<command\>** : Permet de vous afficher la documentation
-
-
-whereis <string> : Permet de rechercher tous les fichiers nommés <string> parmis les fichiers exécutables de l'OS.
-apt-get <command> : Gestionnaire de paquets de l'OS
-apt-get update : met à jour la liste des paquets disponibles
-apt-get upgrade : met à jour les paquets déjà installés sur votre machine
-apt-get install <paquet1> <paquet2> ... : installer un ou plusieurs paquets
-apt-get remove <paquet1> <paquet2> ... : supprimer les paquets SANS les fichiers de configuration
-apt-get purge <paquet1> <paquet2> ... : supprimer les paquets ET les fichiers de configuration
-apt-get autoclean : permet de supprimer les paquets "vieux" et "non utilisés". Conserve les versions à jour des paquets.
-su <username> : permet de se connecter en tant qu'un autre utilisateur
-shutdown -h now : permet d'arrêter la machine
-shutdown -r now : permet de redemarrer la machine
-reboot : permet de redemarrer la machine
-reboot -f : permet de forcer le redemarrage la machine
-which <command> : permet de localiser les fichiers liés aux commandes
+* **whereis \<string\>** : Permet de rechercher un fichiers exécutables
+* **apt-get update** : met à jour la liste des paquets disponibles
+  * **apt-get upgrade** : met à jour les paquets déjà installés sur votre machine
+  * **apt-get install \<paquet1\> \<paquet2\> ...** : installer un ou plusieurs paquets
+  * **apt-get remove \<paquet1\> \<paquet2\> ...** : supprimer les paquets SANS les fichiers de configuration0
+  * **apt-get purge \<paquet1\> \<paquet2\> ...** : supprimer les paquets ET les fichiers de configuration
+  * **apt-get autoclean** : permet de supprimer les paquets "vieux" et "non utilisés". Conserve les versions à jour des paquets.
+* **su \<username\>** : permet de changer d'utilisateur
+* **shutdown -h now** : permet d'arrêter la machine
+  * **shutdown -r now** : permet de redemarrer la machine
+    * **reboot** : permet de redemarrer la machine
+      * **reboot -f** : permet de forcer le redemarrage la machine
+* **which \<command\>** : permet de localiser les fichiers liés aux commandes
