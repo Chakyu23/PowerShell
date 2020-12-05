@@ -1,6 +1,11 @@
-# PowerShell
+# Shell
+
+Bienvenue sur ce petit cour d'informatique de base, nous aborderons un programe spécifique, nous commencerons par voir sa base, ses commandes puis ses utilisation et ces spécificité, nous expliquerons également dans un premier lieu comment l'installé sur les différentes OS disponible, et nous finiront par conclure de ses avantages et désavantages
+
 
 ## De quoi va t'on Parler ?
+
+Nous allons parlé du Shell, le langage shell qui est la base de la plupart des langage sur Linux, notament le Bash.
 
 ## Sommaire
 
