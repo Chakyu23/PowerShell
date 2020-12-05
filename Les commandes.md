@@ -37,3 +37,7 @@
     * **reboot** : permet de redemarrer la machine
       * **reboot -f** : permet de forcer le redemarrage la machine
 * **which \<command\>** : permet de localiser les fichiers liés aux commandes
+
+[<- Retour][l]
+
+[l]:https://github.com/Chakyu23/Shell/blob/main/README.md
