@@ -1,8 +1,8 @@
-#Les Variables
+# Les Variables
 
-##Qu'est ce qu'une variable ?
+## Qu'est ce qu'une variable ?
 
-##Les variable dans Shell
+## Les variable dans Shell
 
 [<- Retour][l]
 
