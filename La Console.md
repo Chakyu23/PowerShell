@@ -2,11 +2,11 @@
 
 ## Qu'est ce qu'une console ?
 
-### Ou trouvé la console ?
+Une console système ou console est un périphérique informatique de télécommunications des entrées-sorties d'un système de traitement de l'information. C'est généralement un terminal dédié uniquement à l'envoi et au retour des commandes.
 
 ## Comment utilisé la console ?
 
-### Comment facilité son utilisation ?
+
 
 [<- Retour][l]
 
