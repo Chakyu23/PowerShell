@@ -2,6 +2,8 @@
 
 ## qu'est ce qu'une Commande ?
 
+Une commande est un mot ou une phrase, répondant à une syntaxe précise, qui, entrée dans l'interface en ligne de commande d'un système d'exploitation, indique à ce dernier une suite d'ordres et d'actions à exécuter.
+
 ### liste de commande générique 
 
 * **ls** : Permet d'affiché La majeur partie des fichié d'un dossier, mais ne montre pas les fichier caché
