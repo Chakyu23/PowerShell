@@ -6,7 +6,7 @@ Une console système ou console est un périphérique informatique de télécomm
 
 ## Comment utilisé la console ?
 
-
+Pour utilisé la console il faut soit utilisé le terminal sur mac, soit un logiciel type VScode sur PC.
 
 [<- Retour][l]
 
