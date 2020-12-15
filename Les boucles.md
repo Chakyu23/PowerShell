@@ -9,7 +9,7 @@ Une boucle est une bonne manière de répété une action en posant des conditio
 La boucle de base est une boucle Jusqu'a 
 * While
 * do
-* <mettez vos action ici>
+* *mettez vos action ici*
 * done
 
 [<- Retour][l]
